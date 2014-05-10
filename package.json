@@ -1,0 +1,24 @@
+{
+  "name": "obj-inspector",
+  "version": "0.0.1",
+  "description": "Show all of properties in the Object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morishitter/obj-inspector.git"
+  },
+  "keywords": [
+    "inspect",
+    "debug",
+    "object"
+  ],
+  "author": "Masaaki Morishita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morishitter/obj-inspector/issues"
+  },
+  "homepage": "https://github.com/morishitter/obj-inspector"
+}
