@@ -5,7 +5,7 @@ Show all of properties in the Object.
 ## Installation
 
 ```
-npm install --save-dev obj-inspector
+npm install obj-inspector
 ```
 
 ## Example
